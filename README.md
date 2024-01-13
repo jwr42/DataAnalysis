@@ -1,6 +1,6 @@
 # Exoplanet Exploratory Analysis
 
-Using the Julia programming language to conduct some exploratory statistical analysis on a dataset of observed exoplanets. 
+Using the Julia programming language to conduct some exploratory statistical analysis on a dataset of exoplanets. 
 
 # Features
 - Importing a 33MB CSV file
