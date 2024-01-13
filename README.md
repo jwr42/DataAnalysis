@@ -14,3 +14,7 @@ Importing a dataset of exoplanets and using the Julia programming language to co
 https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PSCompPars
 
 # Screenshots
+
+<img src="screenshots/describe_dataframe.png" alt="describe" width="800"/>
+
+<img src="screenshots/exoplanet_radius_histogram.png" alt="radius_histogram" width="800"/>
